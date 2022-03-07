@@ -37,6 +37,8 @@ parts/
 sdist/
 var/
 wheels/
+Sesion1_Clase/
+Sesion2_Clase/
 pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
